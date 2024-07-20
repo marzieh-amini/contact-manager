@@ -20,6 +20,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+
+Home:
+![scrContact](https://github.com/user-attachments/assets/5baff87e-345f-44c6-83b6-1eb5ea1cdcfa)
+
+Add contact:
+![scrContactAdd](https://github.com/user-attachments/assets/c5dc266d-76e5-4b9d-9399-4dbe1b074190)
+
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
